@@ -1,7 +1,7 @@
 ﻿
     int num1 = 0; int num2 = 0;
 
-    Console.WriteLine("Console Calculator in C#\r");
+    Console.WriteLine("       kalkulator C#\r");
     Console.WriteLine("------------------------\n");
 
     Console.WriteLine("nomor ke 1: ");
